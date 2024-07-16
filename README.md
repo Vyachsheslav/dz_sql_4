@@ -45,8 +45,8 @@ where date(p.payment_date) = '2005-07-30' and p.payment_date = r.rental_date and
 
 
 ![Оптимизированный запрос](/img/2_1.png)   
- 
 
-![EXPLAIN](/img/2_1.png)  
+
+![EXPLAIN](/img/2_2.png)  
 
 
